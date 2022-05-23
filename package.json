@@ -1,0 +1,20 @@
+{
+  "name": "angular---the-complete-guide-(2022-edition)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muntaha-Islam0019/Angular---The-Complete-Guide--2022-Edition-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muntaha-Islam0019/Angular---The-Complete-Guide--2022-Edition-/issues"
+  },
+  "homepage": "https://github.com/Muntaha-Islam0019/Angular---The-Complete-Guide--2022-Edition-#readme"
+}
